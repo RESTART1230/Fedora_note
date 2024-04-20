@@ -1,2 +1,2 @@
 # Fedora_note
-Some record about useing fedora
+Some records about useing fedora
