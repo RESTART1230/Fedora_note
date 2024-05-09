@@ -3,7 +3,9 @@
 ## Some Settings(RPM .etc)
 https://linux.cn/article-14728-1.html
 
-# Fcitx5-rime安装配置
+## Fcitx5-rime安装配置
+[设置](https://blog.beautyyu.one/archlinux-gnome-chinese-input-fcitx5-rime-ice-solution)
+
 ## 简体默认设置
 
 # 字体设置相关命令
